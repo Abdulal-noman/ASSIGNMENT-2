@@ -500,6 +500,9 @@
        .titel-titel {
            font-size: 2rem;
        }
+      .button-container{
+        display: none;
+       }
 
        .story-1 {
            display: none;
